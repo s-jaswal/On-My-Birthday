@@ -21,24 +21,19 @@
       discover. Click on the buttons below to view each event!</h3>
   </header>
 
-  <nav>
-    <!-- Add your navbar content here -->
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
-  </nav>
+  
 
   <section>
+    <button id="button1" onclick="displayMessage(1)">1869</button>
+    <button id="button2" onclick="displayMessage(2)">1938</button>
+    <button id="button3" onclick="displayMessage(3)">1989</button>
+    <button id="button4" onclick="displayMessage(4)">1998</button>
+    <button id="button5" onclick="displayMessage(5)">2023</button>
+    
+    <!-- Display area for messages -->
+    <div id="messageDisplay"></div>
 
-    <button id="button1" onclick="toggleInfoParagraph1()">1869</button>
-    <button id="button2" onclick="toggleInfoParagraph2()">1938</button>
-    <button id="button3" onclick="toggleInfoParagraph3()">1989</button>
-    <button id="button4" onclick="toggleInfoParagraph4()">1998</button>
-    <button id="button5" onclick="toggleInfoParagraph5()">2023</button>
-
-    <p id="infoParagraph">This is the information related to Button <span id="buttonNumber"></span>.</p>
+</section>
 
 
 
