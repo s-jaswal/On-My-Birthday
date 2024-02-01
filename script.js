@@ -71,5 +71,6 @@ function displayMessage(buttonNumber) {
         default:
             message = "Unknown button clicked.";
     }
+    // displays the message for each according id 
     document.getElementById('messageDisplay').innerText = message;
 }
