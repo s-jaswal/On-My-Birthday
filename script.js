@@ -22,7 +22,7 @@ function displayMessage(buttonNumber) {
       " suggested that a conference of all nations concerned with the current conflict be convened as soon as possible. He" +
       " appealed to Hitler's ego, saying “should you agree to a solution in this peaceful manner I am convinced that" +
       " hundreds of millions throughout the world would recognize your action as an outstanding historic service to all" +
-      " humanity.” FDR then assured Hitler that the U.S. would remain neutral regarding European politics, but that" +
+      " humanity. FDR then assured Hitler that the U.S. would remain neutral regarding European politics, but that" +
       " America recognized a responsibility to be involved “as part of a world of neighbors.”" +
       " In the end, Hitler ignored the international community's pleas for a peaceful solution and invaded Czechoslovakia" +
       " in March 1939. The invasion was just the first in Hitler's quest to control Europe and create a “Third Reich” of" +
