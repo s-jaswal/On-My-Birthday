@@ -3,11 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Fugaz One', sans-serif;
-    font-family: 'Zeyada', cursive;
-    background-color: black;
-    color:white;
-    margin-left: 50px;
+    background-color: maroon;
 }
 
 header {
